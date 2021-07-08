@@ -1,0 +1,207 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.top-section{
+    margin: 40px;
+}
+.half-width h1{
+    font-size: 35px;
+    margin-left: 30px;
+    font-weight: bolder;
+}
+.half-p{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.top-video{
+    margin-left: 10px;
+    font-size:23px;
+    color: orange;    
+}
+.video-button{
+    margin-left: 5px;
+}
+.half-a{
+    margin-left: 30px; 
+    text-decoration: none; 
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.image img{
+  width: 65%;
+  margin-left: 216px;
+}
+.flixable-container{
+    display: flex;
+    margin-bottom: 100px; 
+}
+.work-forse{
+    margin: 40px;
+    background-image: url(images/Bg.png);
+    background-size: cover;
+    background-position-x: center;
+    background-size: 165%;
+    padding-bottom: 300px;
+}
+.work-head-one{
+    text-align: center;
+    font-size: 30px;
+}
+.work-items{
+    display: flex;
+    margin-bottom: 50px;
+}
+.work-card{
+    padding-left: 10px;
+    width:312px ;
+    margin-left: 10px;
+    padding-top: 10px;
+    height: 285px;
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.half-ab{
+    text-decoration: none; 
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    margin-left: 565px;
+    margin-bottom: 400px;
+}
+.work-part{
+    display: flex;
+    margin-bottom: 100px; 
+}
+.work-part-content{
+    width: 50%;
+    padding-left: 2%;
+    margin-left: 30px;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.work-part-image img{
+    width: 90%;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.work-part-b{
+    display: flex;
+    margin-bottom: 100px; 
+}
+.work-part-content-b{
+    width: 80%;
+    padding-left: 2%;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.work-part-image-b{
+    width: 90%;
+    padding-left: 20px;
+}
+.work-part-image-b img{
+   margin-top: 5px;
+}
+.work-part-c{
+    display: flex;
+    margin-bottom: 100px;   
+}
+.work-part-content-c{
+    width: 80%;
+    padding-left: 2%;
+    margin-left: 30px;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+} 
+.work-part-image-c{
+    width: 90%;
+    margin-left: 30px;
+}
+.super-hero{
+    background-image: url(images/Bg\ \(1\).png);
+    background-position-x: center;
+    background-size: cover;
+    height: 500px;
+
+}
+.super-hero-bg img{
+width: 90%;
+align-items: center;
+margin: 80px;
+position: relative;
+}
+.h2-p {
+    position: absolute;
+    text-align: center;
+    margin-top: 247px;
+    padding-left: 38px;
+    padding-right: 38px;
+}
+.half-ab-d{
+    text-decoration: none; 
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.mark{
+   margin-top: 300px;
+   margin-left: 30px;
+   margin-bottom: 200px;
+}
+.flix-blog-area{
+    display: flex;
+    margin-left: 100px;
+}
+.blog-1{
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+    margin-left: 10px;
+    padding: 10px;
+}
+.footer-flixable{
+    display: flex;
+}
+.footer-logo img{
+    margin-left: 50px;
+}
+.footer-menu ul>li> a{
+text-decoration: none;
+
+}
+.footer-menu{
+    margin-right: 30px;
+    padding-left: 100px;
+}
+.footer-menu ul>li{
+    list-style-type: none
+}
+.footer-menu ul li a:hover {
+  color: #173a56;   
+  font-weight: 700;
+}
+.sign-up{
+    text-decoration: none; 
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.up{
+    padding: 10px 40px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
